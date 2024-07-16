@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **QuizApp**
 
-- 🌱 I’m currently learning **React and Redux**
+- 🌱 I’m currently learning **React and Next.js**
 
 - 📫 How to reach me **wikstef2@gmail.com**
 
