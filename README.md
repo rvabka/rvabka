@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rvabka&label=Profile%20views&color=0e75b6&style=flat" alt="rvabka" /> </p>
 
-- 🔭 I’m currently working on **mualaApp**
+- 🔭 I’m currently working on **habbitTracker**
 
 - 🌱 I’m currently learning **React and Next.js**
 
