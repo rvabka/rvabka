@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Wiktor</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
+<h3 align="center">A passionate fullstack developer from Poland</h3>
 <img align="right" alt="codingGif" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rvabka&label=Profile%20views&color=0e75b6&style=flat" alt="rvabka" /> </p>
 
-- 🔭 I’m currently working on **habbitTracker**
+- 🔭 I’m currently working on **tripGenius🌎**
 
-- 🌱 I’m currently learning **React and Next.js**
+- 🌱 I’m currently learning **Next.js and Node.js**
 
 - 📫 How to reach me **wikstef2@gmail.com**
 
